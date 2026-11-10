@@ -1,0 +1,8 @@
+- insert:
+    - id: dsh-session-view
+      name: '@local/dsh-session-view'
+      config:
+        prompts:
+          - label: "全局写作风格"
+            content: "写作与回答采用结论先行、信息分层、自然段为主的高密度技术写作风格。优先说明核心定位、关键能力及实际价值；合并重复信息，仅在必要时使用标题和列表；避免流水账式罗列、冗余解释及无意义的结构化。"
+            workspaces: ["*"]

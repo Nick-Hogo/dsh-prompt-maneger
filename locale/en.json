@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "System prompt manager",
+    "description": "Manage one global system prompt that is unconditionally applied to generation in every workspace."
+  }
+}

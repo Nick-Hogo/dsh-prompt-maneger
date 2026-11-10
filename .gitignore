@@ -1,0 +1,5 @@
+# 本地编辑器历史与依赖
+.lh/
+node_modules/
+.DS_Store
+*.tmp
